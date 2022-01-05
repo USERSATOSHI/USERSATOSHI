@@ -16,7 +16,7 @@
 
 [![Profile Github Stats](https://github-readme-stats.vercel.app/api?username=USERSATOSHI&show_icons=true&title_color=ff00000&icon_color=43237f&text_color=ff00ff&bg_color=28154c)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=USERSATOSHI&langs_count=8&layout=compact&title_color=43237f&text_color=fff&bg_color=28154c)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=USERSATOSHI&layout=compact&title_color=43237f&text_color=fff&bg_color=28154c)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>🛠 My Current Projects</summary>
