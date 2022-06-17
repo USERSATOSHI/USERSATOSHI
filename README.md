@@ -39,10 +39,10 @@
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     
 ### Socials
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
-![Discord](https://img.shields.io/badge/Ayayka_8311-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-	![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-  ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/usersatoshi)
+[![Discord](https://img.shields.io/badge/Ayayka_8311-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/715755977483223081)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/USERSATOSHI)
+[![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/us3r_sat0shi)
   
 <h1 align="center" color="#8700ff">My Stats
 </h1>
