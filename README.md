@@ -54,8 +54,6 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=USERSATOSHI&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERSATOSHi&theme=vue)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=USERSATOSHI&theme=vue&utcOffset=8)
 
 <h1 align="center" color="#8700ff">Funny Moments
