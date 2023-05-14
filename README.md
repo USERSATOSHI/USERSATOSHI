@@ -13,6 +13,7 @@
 ![Quote](https://img.shields.io/badge/Quote-Welp_idk_what_to_do-8700ff.svg)
 ![Fav Font](https://img.shields.io/badge/Font-Cascadia_Code-8700ff.svg)
 ![CSE](https://img.shields.io/badge/Studying-CSE-8700ff.svg)
+![](https://komarev.com/ghpvc/?username=USERSATOSHI&style=for-the-badge&label=PROFILE+VIEWS)
 
 <h1 align="center" color="#8700ff">Trophies
 </h1>
