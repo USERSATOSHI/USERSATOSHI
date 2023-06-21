@@ -62,7 +62,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERSATOSHI&langs_count=10&layout=compact)
 
-![GitHub Streak]([http://github-readme-streak-stats.herokuapp.com?user=USERSATOSHI&theme=onedark_duo&date_format=j%20M%5B%20Y%5D](https://streak-stats.demolab.com/?user=usersatoshi&theme=dark&hide_border=true&mode=weekly&background=-45%2C000000%2C515151)](https://git.io/streak-stats))
+![GitHub Streak](https://streak-stats.demolab.com/?user=usersatoshi&theme=dark&hide_border=true&mode=weekly&background=-45%2C000000%2C515151)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=USERSATOSHI&theme=vue&utcOffset=8)
 
