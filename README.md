@@ -1,8 +1,8 @@
 <h1 align="center" color="#8700ff">Hello There 
 </h1>
-<img align="right" src="https://cdn.discordapp.com/attachments/734127839544344678/987300131109994506/ezgif.com-gif-maker_4.gif" width=300 height=500>
+<!-- <img align="right" src="https://cdn.discordapp.com/attachments/734127839544344678/987300131109994506/ezgif.com-gif-maker_4.gif" width=300 height=500> -->
 
-[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=8700FF&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+UserSatoshi;-%3E+But+you+can+call+me+Ayaka;-%3E+I+am+19+years+old;-%3E+I+am+a+professional+code+uglifier+;-%3E+And+a+code+breaker;+++++++++++++++++++++;-%3E+Just+Exploring+multiple+things+here)](https://github.com/usersatoshi)
+[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=8700FF&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+UserSatoshi;-%3E+But+you+can+call+me+Ayaka;-%3E+I+am+21+years+old;-%3E+I+am+a+professional+code+uglifier+;-%3E+And+a+code+breaker;+++++++++++++++++++++;-%3E+Just+Exploring+multiple+things+here)](https://github.com/usersatoshi)
 
 <h1 align="center" color="#8700ff">Description Badges
 </h1>
