@@ -81,17 +81,13 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
-          plugin_notable_self: yes
+          plugin_notable_self: no
           plugin_notable_types: commit
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: graph
-          plugin_stargazers_days: 14
           plugin_stars: yes
           plugin_stars_limit: 5
           plugin_topics: yes
           plugin_topics_limit: 15
-          plugin_topics_mode: starred
+          plugin_topics_mode: icons
           plugin_topics_sort: stars
           plugin_wakatime: yes
           plugin_wakatime_days: 7
