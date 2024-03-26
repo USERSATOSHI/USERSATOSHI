@@ -1,1 +1,3 @@
-![](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" />
+</picture>
