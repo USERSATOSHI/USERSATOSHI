@@ -73,14 +73,10 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_music_token: ${{ secrets.YT_MUSIC_TOKEN }}
           plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: top
-          plugin_music_played_at: yes
-          plugin_music_playlist: https://www.youtube.com/playlist?list=PL9D0yESpQWpbeTvYRIDI18lVKsJdA8ntq
+          plugin_music_mode: recent
           plugin_music_provider: youtube
-          plugin_music_time_range: medium
-          plugin_music_top_type: tracks
           plugin_music_user: USERSATOSHI
           plugin_notable: yes
           plugin_notable_from: all
@@ -91,14 +87,12 @@ jobs:
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: graph
           plugin_stargazers_days: 14
-          plugin_stargazers_worldmap: yes
           plugin_stars: yes
           plugin_stars_limit: 5
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
-          plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_languages_other: yes
