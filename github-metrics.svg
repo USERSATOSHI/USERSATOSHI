@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 61 users
+                            Followed by 62 users
                         </div>
                     </section>
                     <section>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    77.1k added, 2.47k removed
+                                    198k added, 77.3k removed
                                 </div>
                             </section>
                             <section>
@@ -3305,7 +3305,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lakinduakash/linux-wifi-hotspot</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).</div>
@@ -3981,7 +3981,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="46.73366834170854 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.51256281407035 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4018,9 +4018,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 198k out of 137m users</span>
+                                    <span class="gh">ranked 194k out of 137m users</span>
                                 </div>
-                                <div class="text">Followed by 61 users</div>
+                                <div class="text">Followed by 62 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -4400,7 +4400,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">f2bf2f84</span>
-                            <span class="code">dist/esm/KeyValue/src/FileManager.d.ts.map</span>
+                            <span class="code">dist/esm/index.js.map</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -4411,14 +4411,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"version":3,"file":"FileManager.d.ts","sourceRoot":"","sources":["../../../../lib/KeyValue/src/FileManager.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAE,MAAM,aAAa,CAAC;AAC3C,OAAO,KAAK,MAAM,YAAY,CAAC;AAK/B,MAAM,CAAC,OAAO,OAAO,WAAW;;gBAMnB,OAAO,EAAE,MAAM,EAAE,QAAQ,oBAAK,EAAE,KAAK,EAAE,KAAK;IAOlD,UAAU;IAoChB,IAAI,gBAAgB,WAEnB;IAED,IAAI,QAAQ,WAEX;IAUK,GAAG,CAAC,IAAI,EAAE,YAAY;IAmF5B,MAAM,CAAC,IAAI,EAAE,YAAY,CAAC,KAAK,CAAC;IAoBhC,GAAG,CAAC,GAAG,EAAE,YAAY,CAAC,KAAK,CAAC;IAoB5B,KAAK;IAqBL,GAAG,CAAC,GAAG,EAAE,YAAY,CAAC,KAAK,CAAC;IAqBtB,GAAG,CACR,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO,EACnC,KAAK,EAAE,MAAM,EACb,KAAK,EAAE,QAAQ,GAAG,KAAK,GAAG,MAAM;IAuD3B,OAAO,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IAsB3C,QAAQ,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IA0B5C,SAAS,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO,EAAE,KAAK,EAAE,MAAM;IA2B5D,UAAU,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IAqB9C,IAAI;CAsBV"}<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"version":3,"file":"FileManager.d.ts","sourceRoot":"","sources":["../../../../lib/KeyValue/src/FileManager.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAE,MAAM,aAAa,CAAC;AAC3C,OAAO,KAAK,MAAM,YAAY,CAAC;AAK/B,MAAM,CAAC,OAAO,OAAO,WAAW;;gBAMnB,OAAO,EAAE,MAAM,EAAE,QAAQ,oBAAK,EAAE,KAAK,EAAE,KAAK;IAOlD,UAAU;IAoChB,IAAI,gBAAgB,WAEnB;IAED,IAAI,QAAQ,WAEX;IAUK,GAAG,CAAC,IAAI,EAAE,YAAY;IAkF5B,MAAM,CAAC,IAAI,EAAE,YAAY,CAAC,KAAK,CAAC;IAoBhC,GAAG,CAAC,GAAG,EAAE,YAAY,CAAC,KAAK,CAAC;IAoB5B,KAAK;IAqBL,GAAG,CAAC,GAAG,EAAE,YAAY,CAAC,KAAK,CAAC;IAqBtB,GAAG,CACR,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO,EACnC,KAAK,EAAE,MAAM,EACb,KAAK,EAAE,QAAQ,GAAG,KAAK,GAAG,MAAM;IAuD3B,OAAO,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IAsB3C,QAAQ,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IA0B5C,SAAS,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO,EAAE,KAAK,EAAE,MAAM;IA2B5D,UAAU,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IAqB9C,IAAI;CAsBV"}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"version":3,"file":"index.js","sourceRoot":"","sources":["../../lib/index.ts"],"names":[],"mappings":"AAAA,cAAc,wBAAwB,CAAC;AACvC,cAAc,mBAAmB,CAAC;AAClC,cAAc,mBAAmB,CAAC;AAClC,cAAc,qBAAqB,CAAC;AACpC,cAAc,YAAY,CAAC;AAC3B,cAAc,yBAAyB,CAAC;AACxC,cAAc,wBAAwB,CAAC;AACvC,cAAc,mBAAmB,CAAC"}<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"version":3,"file":"index.js","sourceRoot":"","sources":["../../lib/index.ts"],"names":[],"mappings":"AAAA,cAAc,wBAAwB,CAAC;AACvC,cAAc,mBAAmB,CAAC;AAClC,cAAc,mBAAmB,CAAC;AAClC,cAAc,qBAAqB,CAAC;AACpC,cAAc,YAAY,CAAC;AAC3B,cAAc,yBAAyB,CAAC;AACxC,cAAc,mBAAmB,CAAC"}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 May 2024, 17:41:24 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 May 2024, 18:38:58 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
