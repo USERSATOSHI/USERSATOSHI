@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    198k added, 77.3k removed
+                                    67k added, 2.14k removed
                                 </div>
                             </section>
                             <section>
@@ -4383,7 +4383,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 21 May 2024, 16:04:47
+                            On 21 May 2024, 13:52:24
                         </div>
                     </section>
                 </div>
@@ -4393,14 +4393,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            if write fails retry again
+                            fsync to make things consistent?
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">e24dc380</span>
-                            <span class="code">dist/esm/KeyValue/src/File.d.ts.map</span>
+                            <span class="code">f2bf2f84</span>
+                            <span class="code">dist/esm/KeyValue/src/FileManager.d.ts.map</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -4411,14 +4411,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"version":3,"file":"File.d.ts","sourceRoot":"","sources":["../../../../lib/KeyValue/src/File.ts"],"names":[],"mappings":";AACA,OAAO,IAAI,MAAM,WAAW,CAAC;AAC7B,OAAO,QAAQ,MAAM,eAAe,CAAC;AAKrC,OAAO,KAAK,MAAM,YAAY,CAAC;AAgB/B,MAAM,CAAC,OAAO,OAAO,IAAI;;gBAaZ,IAAI,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM,EAAE,KAAK,EAAE,KAAK;IAgBlD,IAAI;IAYV,IAAI,IAAI,WAEP;IAeD,IAAI,IAAI,WAEP;IAED,IAAI,IAAI,WAEP;IAED,IAAI,KAAK,aAER;IAED,IAAI,OAAO,YAEV;IAED,IAAI,MAAM,YAET;IAED,IAAI,UAAU,WAEb;IAED,IAAI,QAAQ,mBAEX;IAwCK,GAAG,CAAC,GAAG,EAAE,MAAM,GAAG,OAAO,CAAC,IAAI,GAAG,SAAS,CAAC;IA+C3C,GAAG,CAAC,GAAG,EAAE,MAAM,EAAE,KAAK,EAAE,IAAI,GAAG,OAAO,CAAC,IAAI,CAAC;IAsF5C,MAAM,CAAC,KAAK,CAAC,EAAE,CAAC,CAAC,EAAE,IAAI,KAAK,OAAO,GAAG,OAAO,CAAC,IAAI,EAAE,CAAC;IA8BrD,OAAO,CAAC,KAAK,CAAC,EAAE,CAAC,CAAC,EAAE,IAAI,KAAK,OAAO,GAAG,OAAO,CAAC,IAAI,GAAG,SAAS,CAAC;IA8BhE,MAAM,CAAC,IAAI,EAAE,IAAI,CAAC,KAAK,CAAC,GAAG,OAAO,CAAC,IAAI,CAAC;IAMxC,KAAK,IAAI,OAAO,CAAC,IAAI,CAAC;IA0BtB,GAAG,CAAC,GAAG,EAAE,MAAM,GAAG,OAAO,CAAC,OAAO,CAAC;IAgBlC,UAAU,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,IAAI,KAAK,OAAO,GAAG,OAAO,CAAC,IAAI,CAAC;IAuEtD,IAAI;IAMJ,MAAM;IAWN,WAAW;CAKjB"}<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"version":3,"file":"File.d.ts","sourceRoot":"","sources":["../../../../lib/KeyValue/src/File.ts"],"names":[],"mappings":";AACA,OAAO,IAAI,MAAM,WAAW,CAAC;AAC7B,OAAO,QAAQ,MAAM,eAAe,CAAC;AAKrC,OAAO,KAAK,MAAM,YAAY,CAAC;AAgB/B,MAAM,CAAC,OAAO,OAAO,IAAI;;gBAaZ,IAAI,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM,EAAE,KAAK,EAAE,KAAK;IAgBlD,IAAI;IAYV,IAAI,IAAI,WAEP;IAeD,IAAI,IAAI,WAEP;IAED,IAAI,IAAI,WAEP;IAED,IAAI,KAAK,aAER;IAED,IAAI,OAAO,YAEV;IAED,IAAI,MAAM,YAET;IAED,IAAI,UAAU,WAEb;IAED,IAAI,QAAQ,mBAEX;IAwCK,GAAG,CAAC,GAAG,EAAE,MAAM,GAAG,OAAO,CAAC,IAAI,GAAG,SAAS,CAAC;IA+C3C,GAAG,CAAC,GAAG,EAAE,MAAM,EAAE,KAAK,EAAE,IAAI,GAAG,OAAO,CAAC,IAAI,CAAC;IAyF5C,MAAM,CAAC,KAAK,CAAC,EAAE,CAAC,CAAC,EAAE,IAAI,KAAK,OAAO,GAAG,OAAO,CAAC,IAAI,EAAE,CAAC;IA8BrD,OAAO,CAAC,KAAK,CAAC,EAAE,CAAC,CAAC,EAAE,IAAI,KAAK,OAAO,GAAG,OAAO,CAAC,IAAI,GAAG,SAAS,CAAC;IA8BhE,MAAM,CAAC,IAAI,EAAE,IAAI,CAAC,KAAK,CAAC,GAAG,OAAO,CAAC,IAAI,CAAC;IAMxC,KAAK,IAAI,OAAO,CAAC,IAAI,CAAC;IA0BtB,GAAG,CAAC,GAAG,EAAE,MAAM,GAAG,OAAO,CAAC,OAAO,CAAC;IAgBlC,UAAU,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,IAAI,KAAK,OAAO,GAAG,OAAO,CAAC,IAAI,CAAC;IAuEtD,IAAI;IAMJ,MAAM;IAWN,WAAW;CAKjB"}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"version":3,"file":"FileManager.d.ts","sourceRoot":"","sources":["../../../../lib/KeyValue/src/FileManager.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAE,MAAM,aAAa,CAAC;AAC3C,OAAO,KAAK,MAAM,YAAY,CAAC;AAK/B,MAAM,CAAC,OAAO,OAAO,WAAW;;gBAMnB,OAAO,EAAE,MAAM,EAAE,QAAQ,oBAAK,EAAE,KAAK,EAAE,KAAK;IAOlD,UAAU;IAoChB,IAAI,gBAAgB,WAEnB;IAED,IAAI,QAAQ,WAEX;IAUK,GAAG,CAAC,IAAI,EAAE,YAAY;IAmF5B,MAAM,CAAC,IAAI,EAAE,YAAY,CAAC,KAAK,CAAC;IAoBhC,GAAG,CAAC,GAAG,EAAE,YAAY,CAAC,KAAK,CAAC;IAoB5B,KAAK;IAqBL,GAAG,CAAC,GAAG,EAAE,YAAY,CAAC,KAAK,CAAC;IAqBtB,GAAG,CACR,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO,EACnC,KAAK,EAAE,MAAM,EACb,KAAK,EAAE,QAAQ,GAAG,KAAK,GAAG,MAAM;IAuD3B,OAAO,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IAsB3C,QAAQ,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IA0B5C,SAAS,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO,EAAE,KAAK,EAAE,MAAM;IA2B5D,UAAU,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IAqB9C,IAAI;CAsBV"}<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"version":3,"file":"FileManager.d.ts","sourceRoot":"","sources":["../../../../lib/KeyValue/src/FileManager.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAE,MAAM,aAAa,CAAC;AAC3C,OAAO,KAAK,MAAM,YAAY,CAAC;AAK/B,MAAM,CAAC,OAAO,OAAO,WAAW;;gBAMnB,OAAO,EAAE,MAAM,EAAE,QAAQ,oBAAK,EAAE,KAAK,EAAE,KAAK;IAOlD,UAAU;IAoChB,IAAI,gBAAgB,WAEnB;IAED,IAAI,QAAQ,WAEX;IAUK,GAAG,CAAC,IAAI,EAAE,YAAY;IAkF5B,MAAM,CAAC,IAAI,EAAE,YAAY,CAAC,KAAK,CAAC;IAoBhC,GAAG,CAAC,GAAG,EAAE,YAAY,CAAC,KAAK,CAAC;IAoB5B,KAAK;IAqBL,GAAG,CAAC,GAAG,EAAE,YAAY,CAAC,KAAK,CAAC;IAqBtB,GAAG,CACR,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO,EACnC,KAAK,EAAE,MAAM,EACb,KAAK,EAAE,QAAQ,GAAG,KAAK,GAAG,MAAM;IAuD3B,OAAO,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IAsB3C,QAAQ,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IA0B5C,SAAS,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO,EAAE,KAAK,EAAE,MAAM;IA2B5D,UAAU,CAAC,KAAK,EAAE,CAAC,CAAC,EAAE,YAAY,KAAK,OAAO;IAqB9C,IAAI;CAsBV"}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 May 2024, 09:37:55 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 May 2024, 10:38:55 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
