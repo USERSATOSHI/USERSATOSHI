@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    175k added, 37.8k removed
+                                    77.1k added, 2.47k removed
                                 </div>
                             </section>
                             <section>
@@ -4402,7 +4402,7 @@ Co-authored-by: Fafa &lt;Faf4a@users.noreply.github.com&gt;
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">9b4652b6</span>
-                            <span class="code">dist/cjs/OldKeyValue/src/table.d.ts.map</span>
+                            <span class="code">dist/esm/OldKeyValue/src/newcache.js.map</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--1</span>
@@ -4413,14 +4413,14 @@ Co-authored-by: Fafa &lt;Faf4a@users.noreply.github.com&gt;
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"version":3,"file":"table.d.ts","sourceRoot":"","sources":["../../../../lib/OldKeyValue/src/table.ts"],"names":[],"mappings":";;AACA,OAAO,EACH,WAAW,EASd,MAAM,IAAI,CAAC;AAUZ,OAAO,EAAkB,cAAc,EAAE,MAAM,uBAAuB,CAAC;AACvE,OAAO,EACH,qBAAqB,EAErB,oBAAoB,EACvB,MAAM,yBAAyB,CAAC;AACjC,OAAO,IAAI,MAAM,WAAW,CAAC;AAC7B,OAAO,QAAQ,MAAM,eAAe,CAAC;AASrC,OAAO,UAAU,MAAM,4BAA4B,CAAC;AAEpD,OAAO,EAAE,YAAY,EAAE,MAAM,QAAQ,CAAC;AACtC,OAAO,MAAM,MAAM,YAAY,CAAC;AAGhC,MAAM,CAAC,OAAO,OAAO,KAAM,SAAQ,YAAY;;IAC3C,OAAO,EAAE,oBAAoB,CAAC;IAC9B,EAAE,EAAE,QAAQ,CAAC;IACb,KAAK,EAAG;QACJ,SAAS,EAAE,MAAM,CAAC;QAClB,GAAG,EAAE,MAAM,CAAC;KACf,CAAC;IACF,KAAK,EAAG;QACJ,IAAI,EAAE,MAAM,CAAC;QACb,IAAI,EAAE,MAAM,CAAC;QACb,aAAa,CAAC,EAAE,OAAO,CAAC;KAC3B,EAAE,CAAC;IACJ,OAAO,EAAG,MAAM,CAAC;IAejB,UAAU,EAAG,UAAU,CAAC;IACxB,OAAO,EAAG,MAAM,CAAC;IACjB,OAAO,EAAG;QACN,MAAM,EAAE,WAAW,CAAC;QACpB,IAAI,EAAE,MAAM,CAAC;QACb,UAAU,EAAE,WAAW,CAAC;KAC3B,CAAC;IACF,MAAM,UAAS;IAEf,UAAU,UAAS;IAEnB;;;;;;;;;;;OAWG;gBACS,OAAO,EAAE,oBAAoB,EAAE,EAAE,EAAE,QAAQ;IAMvD;;;OAGG;IACG,UAAU;IA8VhB;;;;;;;;;;;;;OAaG;IAEG,GAAG,CAAC,GAAG,EAAE,MAAM,EAAE,KAAK,EAAE,OAAO,CAAC,qBAAqB,CAAC;IAwD5D;;;;;;;;OAQG;IACG,OAAO;aAQA,MAAM;eACJ,MAAM,GAAG,IAAI;cACd,MAAM;aACP,MAAM;gBACH,cAAc;;IAoB9B;;;;;;;;;OASG;IACH,IAAI,KAAK;;;MAER;IAED;;;;;;;;;OASG;IAEG,GAAG,CAAC,GAAG,EAAE,MAAM;IA+CrB;;;;;;;;;OASG;IAEG,MAAM,CAAC,GAAG,EAAE,MAAM;IAYxB;;;;;OAKG;IAEH,IAAI,KAAK,WAER;IAkFD;;;;;;;;OAQG;IAEG,KAAK;IA+BX;;;;;;;;;OASG;IAEG,GAAG,CAAC,GAAG,EAAE,MAAM;IA0CrB;;;;;;;;;OASG;IAEG,OAAO,CAAC,KAAK,EAAE,CAAC,KAAK,EAAE,IAAI,EAAE,KAAK,EAAE,MAAM,KAAK,OAAO;IA2D5D;;;;;;;;;OASG;IAEG,QAAQ,CAAC,KAAK,EAAE,CAAC,KAAK,EAAE,IAAI,EAAE,KAAK,EAAE,MAAM,KAAK,OAAO;IA6C7D;;;;;;;;;;OAUG;IAEG,GAAG,CAAC,KAAK,CAAC,EAAE,CAAC,KAAK,EAAE,IAAI,EAAE,KAAK,EAAE,MAAM,KAAK,OAAO,EAAE,KAAK,CAAC,EAAE,MAAM;IAUzE;;;;;;;;OAQG;IAEG,UAAU,IAAI,OAAO,CAAC,OAAO,CAAC;IAoKpC;;;;;;;;OAQG;IACG,UAAU,CAAC,KAAK,CAAC,EAAE,CAAC,KAAK,EAAE,IAAI,EAAE,KAAK,EAAE,MAAM,KAAK,OAAO;IAgB1D,aAAa;IAYb,IAAI;CAKb"}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"version":3,"file":"newcache.js","sourceRoot":"","sources":["../../../../lib/OldKeyValue/src/newcache.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,oBAAoB,CAAC;AAE3C,OAAO,IAAI,MAAM,WAAW,CAAC;AAE7B,MAAM,CAAC,OAAO,OAAO,MAA6B,SAAQ,KAAW;IACjE,cAAc,CAAgB;IAC9B,YAAY,OAAsB;QAC9B,KAAK,CAAC,OAAO,CAAC,KAAK,CAAC,CAAC;QACrB,IAAI,CAAC,cAAc,GAAG,OAAO,CAAC;IAClC,CAAC;IACD,WAAW,CAAC,IAAwC,EAAE,IAAY;QAC9D,KAAK,MAAM,GAAG,IAAI,IAAI,EAAE;YACpB,MAAM,CAAC,GAAG,IAAI,IAAI,CAAC;gBACf,GAAG,IAAI,CAAC,GAAG,CAAC;gBACZ,IAAI;aACP,CAAC,CAAC;YACH,IAAI,CAAC,GAAG,CAAC,GAAQ,EAAE,CAAM,CAAC,CAAC;SAC9B;IACL,CAAC;CACJ"}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 May 2024, 14:38:09 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 May 2024, 15:32:02 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
