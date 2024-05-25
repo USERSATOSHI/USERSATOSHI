@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    198k added, 77.3k removed
+                                    336k added, 81.4k removed
                                 </div>
                             </section>
                             <section>
@@ -3459,7 +3459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lakinduakash/linux-wifi-hotspot</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).</div>
@@ -4023,7 +4023,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 138k out of 201m repositories</span>
+                                    <span class="gh">ranked 138k out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 315 stars</div>
                             </div>
@@ -4225,7 +4225,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.32m out of 201m repositories</span>
+                                    <span class="gh">ranked 1.32m out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 8 times</div>
                             </div>
@@ -4490,7 +4490,7 @@ Co-authored-by: Fafa &lt;Faf4a@users.noreply.github.com&gt;
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">9b4652b6</span>
-                            <span class="code">dist/cjs/OldKeyValue/src/cache.js.map</span>
+                            <span class="code">dist/esm/OldKeyValue/src/data.js.map</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--1</span>
@@ -4501,14 +4501,14 @@ Co-authored-by: Fafa &lt;Faf4a@users.noreply.github.com&gt;
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"version":3,"file":"cache.js","sourceRoot":"","sources":["../../../../lib/OldKeyValue/src/cache.ts"],"names":[],"mappings":";;;;;AACA,mDAAyC;AACzC,wDAA6B;AAG7B,MAAqB,MAAM;IACvB,OAAO,CAAgB;IACvB,KAAK,CAAoC;IACzC,YAAY,OAAsB;QAC9B,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;QACvB,IAAI,CAAC,KAAK,GAAG,EAAE,CAAA;IACnB,CAAC;IACC,GAAG,CAAC,IAAS;QACX,IAAG,CAAC,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC;YAAE,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC,GAAG,IAAI,kBAAK,CAAC,IAAI,CAAC,OAAO,CAAC,KAAK,CAAC,CAAC;QACjF,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC,GAAG,CAAC,IAAI,CAAC,GAAG,EAAC,IAAI,CAAC,CAAC;IAC7C,CAAC;IACD,GAAG,CAAC,GAAU,EAAE,IAAW;QACvB,IAAG,CAAC,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC;YAAE,OAAO;QAC7B,OAAO,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,CAAC;IACrC,CAAC;IACD,MAAM,CAAC,GAAW,EAAG,IAAW;QAC5B,IAAG,CAAC,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC;YAAE,OAAO,KAAK,CAAC;QACnC,OAAO,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC;IAExC,CAAC;IACD,KAAK,CAAC,IAAW;QACb,IAAG,CAAC,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC;YAAE,OAAO;QAC7B,OAAO,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,CAAC,KAAK,EAAE,CAAC;IACpC,CAAC;IACD,GAAG,CAAC,GAAW,EAAG,IAAW;QACzB,IAAG,CAAC,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC;YAAE,OAAO,KAAK,CAAC;QACnC,OAAO,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,CAAC;IACrC,CAAC;IACD,IAAI,IAAI;QACJ,OAAO,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC;IAC3B,CAAC;IACD,IAAI,IAAI;QACJ,OAAO,IAAI,CAAC,KAAK,CAAC;IACtB,CAAC;IACD,QAAQ;QACJ,IAAI,CAAC,KAAK,GAAG,EAAE,CAAC;IACpB,CAAC;IACD,YAAY,CAAC,IAAW;QACpB,OAAO,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,CAAC;IAC5B,CAAC;IACD,OAAO,CAAC,IAAW,EAAC,IAAsC;QACtD,IAAG,CAAC,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC;YAAE,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,GAAG,IAAI,kBAAK,CAAC,IAAI,CAAC,OAAO,CAAC,KAAK,CAAC,CAAC;QACvE,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,CAAC,KAAK,EAAE,CAAC;QACzB,KAAI,MAAM,GAAG,IAAI,IAAI,EAAE;YACnB,MAAM,IAAI,GAAG,IAAI,iBAAI,CAAC;gBAClB,GAAG;gBACH,IAAI;gBACJ,KAAK,EAAE,IAAI,CAAC,GAAG,CAAC,CAAC,KAAK;gBACtB,IAAI,EAAE,IAAI,CAAC,GAAG,CAAC,CAAC,IAAI;aACvB,CAAC,CAAC;YACH,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,CAAC,GAAG,CAAC,GAAG,EAAC,IAAI,CAAC,CAAC;SAClC;IACL,CAAC;CACJ;AArDD,yBAqDC"}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"version":3,"file":"data.js","sourceRoot":"","sources":["../../../../lib/OldKeyValue/src/data.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,KAAK,EAAE,MAAM,MAAM,CAAC;AAC7B,MAAM,CAAC,OAAO,OAAO,IAAI;IACrB,IAAI,CAAS;IACb,GAAG,CAAS;IACZ,KAAK,CAAM;IACX,IAAI,CAAmB;IAEvB;;;;;;;;;;;;;;;OAeG;IAEH,YAAY,IAA8C;QACtD,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC,IAAI,CAAC;QACtB,IAAI,CAAC,GAAG,GAAG,IAAI,CAAC,GAAG,CAAC;QACpB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC,IAAI,IAAI,IAAI,CAAC,QAAQ,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC;QACnD,IAAI,CAAC,KAAK,GAAG,IAAI,CAAC,WAAW,CAAC,IAAI,CAAC,CAAC;IACxC,CAAC;IACD;;;;;OAKG;IACH,QAAQ,CAAC,KAAU;QACf,OAAO,KAAK,YAAY,IAAI,CAAC,CAAC,CAAC,MAAM,CAAC,CAAC,CAAC,OAAO,KAAK,CAAC;IACzD,CAAC;IACD;;;;;OAKG;IACH,WAAW,CAAC,IAA8C;QACtD,OAAO,IAAI,CAAC,IAAI,KAAK,MAAM;YACvB,CAAC,OAAO,IAAI,CAAC,KAAK,KAAK,QAAQ;gBAC3B,OAAO,IAAI,CAAC,KAAK,KAAK,QAAQ;gBAC9B,KAAK,CAAC,MAAM,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC;YAC7B,CAAC,CAAC,aAAa;gBACb,IAAI,IAAI,CAAC,IAAI,CAAC,KAAK,CAAC;YACtB,CAAC,CAAC,IAAI,CAAC,IAAI,KAAK,QAAQ;gBACtB,CAAC,OAAO,IAAI,CAAC,KAAK,KAAK,QAAQ,IAAI,OAAO,IAAI,CAAC,KAAK,KAAK,QAAQ,CAAC;gBACpE,CAAC,CAAC,MAAM,CAAC,IAAI,CAAC,KAAK,CAAC;gBACpB,CAAC,CAAC,OAAO,IAAI,CAAC,KAAK,KAAK,QAAQ;oBAC9B,IAAI,CAAC,KAAK,GAAG,MAAM,CAAC,gBAAgB;oBACtC,CAAC,CAAC,MAAM,CAAC,IAAI,CAAC,KAAK,CAAC;oBACpB,CAAC,CAAC,IAAI,CAAC,KAAK,CAAC;IACrB,CAAC;IACD;;;;;;;;OAQG;IACH,MAAM;QACF,OAAO;YACH,KAAK,EAAE,KAAK,CAAC,MAAM,CAAC,IAAI,CAAC,KAAK,CAAC;gBAC3B,CAAC,CAAC,IAAI,CAAC,KAAK,CAAC,WAAW,EAAE;gBAC1B,CAAC,CAAC,OAAO,IAAI,CAAC,KAAK,KAAK,QAAQ;oBAChC,CAAC,CAAC,IAAI,CAAC,KAAK,CAAC,QAAQ,EAAE;oBACvB,CAAC,CAAC,IAAI,CAAC,KAAK;YAChB,IAAI,EAAE,IAAI,CAAC,IAAI;YACf,GAAG,EAAE,IAAI,CAAC,GAAG;SAChB,CAAC;IACN,CAAC;IAED,IAAI,IAAI;QACJ,OAAO,MAAM,CAAC,UAAU,CAAC,IAAI,CAAC,SAAS,CAAC,IAAI,CAAC,MAAM,EAAE,CAAC,CAAC,CAAC;IAC5D,CAAC;IACD;;;;OAIG;IACH,MAAM,CAAC,SAAS;QACZ,OAAO,IAAI,IAAI,CAAC;YACZ,IAAI,EAAE,EAAE;YACR,GAAG,EAAE,EAAE;YACP,KAAK,EAAE,EAAE;YACT,IAAI,EAAE,WAAW;SACpB,CAAC,CAAC;IACP,CAAC;CACJ"}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2024, 18:09:13 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 May 2024, 18:33:12 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
