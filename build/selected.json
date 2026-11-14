@@ -1,0 +1,66 @@
+[
+  {
+    "nameWithOwner": "aoijs/aoi.js",
+    "url": "https://github.com/aoijs/aoi.js",
+    "isPrivate": false,
+    "isArchived": false,
+    "stargazerCount": 341,
+    "defaultBranchRef": {
+      "name": "v6",
+      "target": {
+        "history": {
+          "totalCount": 945
+        }
+      }
+    },
+    "authoredCommits": 945
+  },
+  {
+    "nameWithOwner": "WordPress/gutenberg",
+    "url": "https://github.com/WordPress/gutenberg",
+    "isPrivate": false,
+    "isArchived": false,
+    "stargazerCount": 11795,
+    "defaultBranchRef": {
+      "name": "trunk",
+      "target": {
+        "history": {
+          "totalCount": 34
+        }
+      }
+    },
+    "authoredCommits": 34
+  },
+  {
+    "nameWithOwner": "USERSATOSHI/kouro",
+    "url": "https://github.com/USERSATOSHI/kouro",
+    "isPrivate": false,
+    "isArchived": false,
+    "stargazerCount": 0,
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "history": {
+          "totalCount": 48
+        }
+      }
+    },
+    "authoredCommits": 48
+  },
+  {
+    "nameWithOwner": "USERSATOSHI/kasanome",
+    "url": "https://github.com/USERSATOSHI/kasanome",
+    "isPrivate": false,
+    "isArchived": false,
+    "stargazerCount": 0,
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "history": {
+          "totalCount": 9
+        }
+      }
+    },
+    "authoredCommits": 9
+  }
+]

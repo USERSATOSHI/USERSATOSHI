@@ -1,0 +1,6 @@
+__pycache__/
+build/desktop/
+build/mobile/
+build/*-palette.png
+assets/profile*.png
+assets/profile*.gif
