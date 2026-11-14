@@ -31,7 +31,7 @@ jobs:
 
       - name: Refresh public GitHub data
         env:
-          GH_TOKEN: ${{ secrets.PROFILE_READ_TOKEN || secrets.METRICS_TOKEN || github.token }}
+          GH_TOKEN: ${{ secrets.PROFILE_READ_TOKEN || github.token }}
         run: python3 build/refresh_data.py
 
       - name: Rebuild profile artwork

@@ -19,7 +19,7 @@ Each run fetches the rolling GitHub contribution calendar, the four selected rep
 
 The workflow uses the automatic `GITHUB_TOKEN` for commits, with `contents: write`. Repository rules must permit that bot to push to the default branch. If direct pushes are blocked, use your repository's permitted PR process rather than bypassing its rules.
 
-Public data reads use `PROFILE_READ_TOKEN`, falling back to an existing `METRICS_TOKEN`, then `GITHUB_TOKEN`. Try the manual run first. If your automatic token cannot read user contribution data or the upstream repositories, create a repository Actions secret named `PROFILE_READ_TOKEN` with access to public GitHub GraphQL data. A classic personal access token with no selected scopes can read public information. Private-repository access is unnecessary for this public profile. Never put a token in a file.
+Public data reads use `PROFILE_READ_TOKEN`, falling back to `GITHUB_TOKEN`. Try the manual run first. If your automatic token cannot read user contribution data or the upstream repositories, create a repository Actions secret named `PROFILE_READ_TOKEN` with access to public GitHub GraphQL data. A classic personal access token with no selected scopes can read public information. Private-repository access is unnecessary for this public profile. Never put a token in a file.
 
 A failed fetch or render does not commit partial artwork. Overlapping runs are serialized. Pushes are ordinary pushes; a conflicting remote update fails safely. GitHub can disable scheduled workflows in public repositories after 60 days without repository activity; re-enable the workflow in Actions if needed.
 
