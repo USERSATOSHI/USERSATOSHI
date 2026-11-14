@@ -34,5 +34,5 @@
 <!-- profile-about -->
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/about-mobile.png">
-  <img src="./assets/about.png" width="960" alt="Interests: manga and self-hosting. Tools: TypeScript, JavaScript, Node.js, Bun, SQLite, Linux, Git. Activity snapshot: 14 November 2026.">
+  <img src="./assets/about.png" width="960" alt="Interests: self-hosting. Tools: TypeScript, JavaScript, Node.js, Bun, SQLite, Linux, Git. Activity snapshot: 14 November 2026.">
 </picture>
