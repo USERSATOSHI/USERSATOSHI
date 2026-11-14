@@ -34,5 +34,5 @@
 <!-- profile-about -->
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/about-mobile.png">
-  <img src="./assets/about.png" width="960" alt="Interests: self-hosting. Languages and tools: C++, TypeScript, JavaScript, Python, PHP, Shell, HTML, CSS, React, Electron, Elysia, Node.js, Bun, SQLite, Linux, Docker, Git, Nix, Tree-sitter. Activity snapshot: 14 November 2026.">
+  <img src="./assets/about.png" width="960" alt="Interests: self-hosting, local LLMs, compiler design. Languages, frameworks and runtimes, data and parsing, systems and tooling: C++, TypeScript, JavaScript, Python, PHP, Shell, HTML, CSS, React, Electron, Elysia, Node.js, Bun, SQLite, Linux, Docker, Git, Nix, Tree-sitter. Activity snapshot: 14 November 2026.">
 </picture>
